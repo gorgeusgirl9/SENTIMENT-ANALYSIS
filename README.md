@@ -1,5 +1,8 @@
 
-#https://huggingface.co/spaces/gorgeus/SENTIMENT_ANALYSIS
+https://huggingface.co/spaces/gorgeus/SENTIMENT_ANALYSIS
+#https://www.kaggle.com/code/gorgeusgirl/sentiment-analysis
+#https://github.com/gorgeusgirl9/SENTIMENT-ANALYSIS
+
 
 
 Veri Yönetimi: Veri seti bağımlılığını (Data Dependency) ortadan kaldırmak ve farklı ortamlarda çalışabilirliği sağlamak adına in-memory (bellek içi) veri yapısı kullanılmıştır.
